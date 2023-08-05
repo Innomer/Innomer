@@ -1,5 +1,6 @@
 # 💫 About Me:
-🤝 I’m looking for help with internships<br>🌱 I’m currently learning Machine Learning, Computer Vision and Game Development with Web Development as a backup
+
+🤝 Hi! I am Mann Bhanushali<br>🌱 I’m currently learning Machine Learning, Computer Vision and Web Development <br>🌱 Intermediate knowledge regarding NLP and CV <br>🌱 Creating projects based on <b>MERN and Machine Learning</b>.<br>🌱 Winner at Xtract 2022.
 
 
 ## 🌐 Socials:
