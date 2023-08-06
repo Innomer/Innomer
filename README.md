@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🤝 Hi! I am Mann Bhanushali, currently in 3rd year Computer Engineering at Dwarkadas J. Sanghvi College of Engineering.<br>🌱 I’m currently learning Machine Learning, Computer Vision and Web Development <br>🌱 Intermediate knowledge regarding NLP and CV <br>🌱 Creating projects based on <b>MERN and Machine Learning</b>.<br>🌱 Winner at Xtract 2022.<br> Contact me @ bhanushalimann@gmail.com
+🤝 Hi! I am Mann Bhanushali, currently in <b>3rd year Computer Engineering</b> at <b>Dwarkadas J. Sanghvi College of Engineering</b>.<br>🌱 I’m currently learning Machine Learning, Computer Vision and Web Development <br>🎯 Intermediate knowledge regarding NLP and CV <br>🧠 Creating projects based on <b>MERN</b> and <b>Machine Learning</b>.<br>🔓 Open to <b>Freelance</b> Work, <b>Open Source</b> Projects and <b>Internships</b>.<br>🥇 Winner at Xtract 2022.<br>📧Contact me @ bhanushalimann@gmail.com
 
 
 ## 🌐 Socials:
