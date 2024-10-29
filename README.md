@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🤝 Hi! I am Mann Bhanushali, currently in <strong>3rd year Computer Engineering</strong> at <b>Dwarkadas J. Sanghvi College of Engineering</b>.<br>🌱 I’m aquainted with <b>Software for Robotics, Machine Learning, Computer Vision and Web Development</b> <br>🎯 Intermediate knowledge regarding <b>NLP</b> and <b>CV</b> <br>🧠 Creating projects based on <b>MERN</b> and <b>Machine Learning</b>.<br>🔓 Open to <b>Freelance</b> Work, <b>Open Source</b> Projects and <b>Internships</b>.<br>📧 Contact me @ bhanushalimann@gmail.com
+🤝 Hi! I am Mann Bhanushali, currently in <strong>Final Year of my Undergraduate Computer Engineering Degree</strong> at <b>Dwarkadas J. Sanghvi College of Engineering</b>.<br>🌱 I’m aquainted with <b>Software for Robotics, Machine Learning, Computer Vision and Web Development</b> <br>🎯 Proficient in <b>NLP</b> and <b>CV</b> <br>🧠 Creating projects based on <b>ROS</b>, <b>Python</b>, and <b>MERN stack</b>.<br>🔓 Open to <b>Freelance</b> Work, <b>Open Source</b> Projects and <b>Internships</b>.<br>📧 Contact me @ bhanushalimann@gmail.com
 
 # 🏅 Achievements:
 <ul>
@@ -11,7 +11,9 @@
 <li>✨ Smart India Hackathon 2023 Finalist.</li>
 <li>🌞 Amazon ML Summer School 2023 Student.</li>
 <li>🥼 Vice-Captain @DJSAntariksh</li>
-<li>🎇 Top 10 at European Rover Challenge 2023.</li>
+<li>🎇 Runner-Up at European Rover Challenge 2023 Remote Edition.</li>
+<li>🎇 Top 10 at European Rover Challenge 2023 On-site Edition.</li>
+<li>🎇 Top 12 at European Rover Challenge 2024 On-site Edition.</li>
 </ul>
 
 ## 🌐 Socials:
