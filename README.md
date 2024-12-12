@@ -14,6 +14,8 @@
 <li>🎇 Runner-Up at European Rover Challenge 2023 Remote Edition.</li>
 <li>🎇 Top 10 at European Rover Challenge 2023 On-site Edition.</li>
 <li>🎇 Top 12 at European Rover Challenge 2024 On-site Edition.</li>
+<li>✨ Top 100 at Samsung Solve for Tomorrow 2024, India.</li>
+
 </ul>
 
 ## 🌐 Socials:
