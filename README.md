@@ -8,6 +8,8 @@ I work on **autonomous systems**, **motion planning**, **control**, and **intell
 
 My projects often combine **robotics** with **machine learning**, and I occasionally explore **game development** as side pursuits.
 
+Currently, I'm **open to work** as a Full-time Robotics or Computer Vision Engineer.
+
 📁 You'll find code here related to:
 - Autonomous navigation  
 - SLAM  
