@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-## 👋 Hi there!
+# 👋 Hi there!
 
 I'm a **Robotics Software and Machine Learning Engineer**, and a **Computer Engineering Undergraduate from DJSCE**, and an **incoming MSE Robotics student at UPenn** (Fall 2025).
 
