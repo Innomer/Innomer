@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a **Robotics Software and Machine Learning Engineer**, and a **Computer Engineering Undergraduate from DJSCE**, and an **incoming MSE Robotics student at UPenn** (Fall 2025).
+I'm a **Robotics Software and Machine Learning Engineer**, and a **Computer Engineering Undergraduate from DJSCE**.
 
 I work on **autonomous systems**, **motion planning**, **control**, and **intelligent robot behavior** — both in **simulation** using tools like **ROS 2** and **Gazebo**, and in **real-world deployments**.
 
