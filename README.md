@@ -1,51 +1,197 @@
-# 👋 Hi there!
+<div align="center">
 
-I'm a **Robotics Software and Machine Learning Engineer**, and a **Computer Engineering Undergraduate from DJSCE**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030712,40:1D4ED8,100:38BDF8&text=Mann%20Bhanushali&fontColor=ffffff&fontSize=52&fontAlignY=38" alt="Mann Bhanushali"/>
 
-I work on **autonomous systems**, **motion planning**, **control**, and **intelligent robot behavior** — both in **simulation** using tools like **ROS 2** and **Gazebo**, and in **real-world deployments**.
+### Robotics Software Engineer | M.S.E. Robotics @ University of Pennsylvania
 
-My projects often combine **robotics** with **machine learning**, and I occasionally explore **game development** as side pursuits.
+*Building autonomous robots through perception, planning, control and learning.*
 
-Currently, I'm **open to work** as a Full-time Robotics or Computer Vision Engineer.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=ROS+2+Developer;Autonomous+Navigation;Mobile+Manipulation;Computer+Vision;Robot+Learning;Open+Source+Robotics)](https://git.io/typing-svg)
 
-📁 You'll find code here related to:
-- Autonomous navigation  
-- SLAM  
-- Path tracking  
-- ML experiments  
-- Debugging and dev tools I build to learn faster
+<p>
+<a href="mailto:bhanushalimann@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/innomer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/Innomer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.mannbhanushali.com"><img alt="Website" src="https://img.shields.io/badge/-Portfolio%20Website-000000?style=flat"></a>
+</p>
 
-📬 **Let’s connect:** [bhanushalimann@gmail.com](mailto:bhanushalimann@gmail.com)
-
----
-# 🏅 Achievements:
-<ul>
-<li>🥇 Winner at XTract 2022, A Datathon!</li>
-<li>🥈 Second Rank Worldwide at International Space Drone Challenge 2024!</li>
-<li>🥉 Second Runner-Up at Syn3rgy Hackathon!</li>
-<li>🥉 Second Runner-Up at International Rover Challenge 2024!</li>
-<li>✨ Smart India Hackathon 2023 Finalist.</li>
-<li>🌞 Amazon ML Summer School 2023 Student.</li>
-<li>🥼 Vice-Captain @DJSAntariksh</li>
-<li>🎇 Runner-Up at European Rover Challenge 2023 Remote Edition.</li>
-<li>🎇 Top 10 at European Rover Challenge 2023 On-site Edition.</li>
-<li>🎇 Top 12 at European Rover Challenge 2024 On-site Edition.</li>
-<li>✨ Top 100 at Samsung Solve for Tomorrow 2024, India.</li>
-
-</ul>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inn0m3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/innomer) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Innomer)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Innomer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Innomer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Innomer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Innomer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Innomer&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## 👋 About Me
+
+I'm a Robotics Software Engineer passionate about building production-quality autonomous systems.
+
+My work focuses on **ROS 2**, **Navigation2**, **robot perception**, **motion planning**, **mobile manipulation**, and **computer vision**. I enjoy working across the robotics stack—from middleware and localization to planning, control, and deployment.
+
+Currently pursuing an **M.S.E. in Robotics at the University of Pennsylvania**, I'm interested in building intelligent robots that combine classical robotics with modern AI.
+
+> *"The best robotics software disappears into the robot—the engineering feels effortless."*
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Navigation2 open-source development
+- 🛰️ Autonomous Navigation
+- 🦾 Mobile Manipulation
+- 🧠 Robot Learning
+- 👁️ Semantic Perception & Mapping
+- 🌌 Space Robotics
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`C++` • `Python` • `C` • `Java`
+
+**Robotics**
+
+`ROS 2` • `Navigation2` • `MoveIt` • `Gazebo` • `Isaac Sim`
+
+**Perception**
+
+`OpenCV` • `PCL` • `SLAM` • `Sensor Fusion`
+
+**Machine Learning**
+
+`PyTorch` • `TensorFlow` • `Computer Vision` • `Reinforcement Learning`
+
+**Developer Tools**
+
+`Docker` • `Git` • `Linux` • `Jetson` • `AWS`
+
+---
+
+## ⭐ Featured Work
+
+> A selection of projects and open-source work that reflect my interests in robotics software, autonomous systems, and computer vision.
+
+<table>
+<tr>
+<td width="50%">
+
+### Navigation2 Contributions
+
+Contributions to the ROS 2 Navigation Stack, including bug fixes, testing, infrastructure improvements, and feature development.
+
+**Tech**
+`ROS 2` `C++` `Navigation2` `Docker` `Git`
+
+🔗 [**Repository**](https://github.com/ros-navigation/navigation2)
+
+</td>
+
+<td width="50%">
+
+### Reactive Controller for Autonomous Racing 
+
+Autonomous racing software developed combining sampling-based trajectory optimization (Rollouts) with a data-driven parameter tuning pipeline.
+
+**Tech**
+`ROS 2` `LIDAR Perception` `Pure Pursuit` `Trajectory Rollout`
+
+🔗 [**Repository**](https://github.com/Innomer/Roboracer-Sim-Challenge-ICRA2026)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Autonomous Rescue Drone
+
+Software stack for an autonomous UAV designed for flood-based search-and-rescue missions.
+
+**Tech**
+`PX4` `Computer Vision` `ROS` `Mission Planning`
+
+🔗 [**Video Link**](https://www.mannbhanushali.com/projects) 
+
+</td>
+
+<td>
+
+### X-Spand: Web-Wheel Robot for Nvidia Sponsored LycheeAI Isaac Sim Tournament
+
+Design and simulation of a mobile robot in NVIDIA Isaac Sim featuring dynamic web-wheel structures with asymmetrical, retractable spokes. 
+
+**Tech**
+`Python` `ROS 2` `Isaac Sim`
+
+🔗 [**Submission Video**](https://youtu.be/2cqd9PLQQ9Q)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Vidyaan: Prototype Holonomic Mars Rover
+
+Holonomic Rover with a 6-DOF robotic arm for manipulation operation, featuring multi-level autonomy. My work includes being the Vice-captain, creating Autonomy Planning and Control Software using ROS2 for Off-road Navigation and Instrument Manipulation.
+
+**Tech**
+`ROS2` `Computer Vision` `SLAM` `A*` `MoveIt` `Mission Planning` `Microcontroller Programming`
+
+🔗 [**Video Link**](https://www.youtube.com/watch?v=fxpwb3R4hXE) 
+
+</td>
+
+<td>
+
+### 3D MODEL GENERATION FROM TEXT
+
+Explores AI techniques to convert text prompts into 3D models using Shap-E and Stable Diffusion.
+
+**Tech**
+`Python` `Hugging Face` `Transformers` `PyTorch`
+
+🔗 [**Repository**](https://github.com/Innomer/3D-Model-Generation-from-Prompt)
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## 💼 Industry Experience
+
+Alongside my public repositories, I've also contributed to production robotics systems through professional work, including:
+
+- Autonomous mobile manipulation for industrial wall-cleaning robots
+- Autonomous Pick-Inspect-Place Mobile Robots for Manufacturing segments.
+- Large-scale ROS 2 autonomy stacks
+
+> Due to confidentiality agreements, these projects aren't open source, but they continue to shape how I approach robotics software engineering.
+
+---
+
+## 🏆 Selected Achievements
+
+- 🥈 2nd Worldwide — International Space Drone Challenge 2024
+- 🥉 Second Runner-up — International Rover Challenge 2024
+- 🏆 European Rover Challenge Runner-up 2023 (Remote)
+- 🌍 11th & 12th Globally — European Rover Challenge (On-site)
+- 🥇 Winner — XTract Datathon
+- 🏅 Smart India Hackathon Finalist
+- 🌞 Amazon ML Summer School
+- 🚀 Vice-Captain — DJS Antariksh
+
+---
+
+## 🤝 Connect
+
+📧 **Email:** bhanushalimann@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/innomer
+
+Always happy to collaborate on robotics, autonomy, perception, and open-source robotics software.
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:38BDF8,100:030712"/>
+</div>
